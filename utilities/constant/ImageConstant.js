@@ -1,0 +1,1 @@
+export const SP_IMG_SEARCH = require ('../../assets/images/red-flag.png')
